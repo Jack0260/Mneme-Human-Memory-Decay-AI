@@ -1,0 +1,6 @@
+{
+  "name": "Mneme · Human Memory Decay AI",
+  "description": "An AI assistant that mimics human memory decay, retention half-lives, and spaced relearning across cognitive sessions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
